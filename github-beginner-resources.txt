@@ -1,0 +1,7 @@
+Github Beginner Repos
+
+https://github.com/mungell/awesome-for-beginners (language-wise)
+https://up-for-grabs.net/#/
+http://issuehub.io/ (filter by language, bug-name)
+https://www.firsttimersonly.com/
+https://goodfirstissues.com/
